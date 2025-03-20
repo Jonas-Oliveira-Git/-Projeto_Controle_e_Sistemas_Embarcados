@@ -68,6 +68,9 @@ Cada filtro possui uma função específica para aplicar a transformação corre
 - `apply_closing_and_display()`: Aplica fechamento.
 
 ### 6. interfaces
+https://github.com/Jonas-Oliveira-Git/-Projeto_Controle_e_Sistemas_Embarcados/issues/3#issue-2936211325
+https://github.com/Jonas-Oliveira-Git/-Projeto_Controle_e_Sistemas_Embarcados/issues/2#issue-2936209695
+https://github.com/Jonas-Oliveira-Git/-Projeto_Controle_e_Sistemas_Embarcados/issues/3#issue-2936211325
 
 
 
